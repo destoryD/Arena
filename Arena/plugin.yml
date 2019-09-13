@@ -1,0 +1,9 @@
+name: Arena
+main: com.ryidc.Ermu.Arena.Arena
+version: 1.0
+author: Er_mu
+softdepend: [Vault]
+commands:
+    Arena:
+        description: This is a name for "Arean" plugin.
+        usage: You can use "/Arena help" see help or "/Arena".

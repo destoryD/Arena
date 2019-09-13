@@ -1,0 +1,6 @@
+#进行选点后给予的选点工具 默认木棍
+selectId: 280
+#竞技场白名单
+whiteCommand:
+  - /arena leave
+  
